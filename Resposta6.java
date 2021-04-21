@@ -1,0 +1,1 @@
+Resposta: Deveria herdar de Oviparos.
